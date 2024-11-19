@@ -1,0 +1,11 @@
+.clk,.nclk{
+    font-size: 24px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+.clk{
+    background-color: black;
+    color: white;
+}
+.nclk{
+    background-color: yellow;
+}
